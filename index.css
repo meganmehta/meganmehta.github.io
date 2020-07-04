@@ -42,6 +42,13 @@ body{
     transform-origin: 50% 50%;
   }
 
+  .blobOne{
+    fill: url(#gradient-horizontal);
+  }
+
+  .blobTwo{
+    fill: url(#gradient-horizontal);
+  }
 
   #experience {
     height: 400px;
